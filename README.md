@@ -10,7 +10,7 @@ The game contains two modes:
 
 You will notice that the game seems really easy at the beginning, but the more packets have been placed, the shorter is the time for you to arrange new packets. Especially in the speed mode, you will see that this almost becomes impossible in the second half of a round.
 ### Scoring
-You will receive points for each successfully placed packet. You may notice that every packet consists of multiple small square blocks. For each of them, you will earn 100 points. Additionally, for each downward facing surface touching the wall or any other package, you will get 10 additional bonus points. This means: The better you place your packets and the better you fill left space, the more points you get. Happy Scoring!
+You will receive points for each successfully placed packet. You may notice that every packet consists of multiple small square blocks. For each of them, you will earn 100 points. Additionally, for each downward facing edge of your packet touching the wall or any other packet, you will get 10 additional bonus points. This means: The better you place your packets and the better you fill left space, the more points you get. Happy Scoring!
 
 ### Controls
 To control the game, just use the movement and rotation controls on the bottom edge of the game screen. With them, you can easily rotate and move the currently falling down package.
