@@ -1,3 +1,5 @@
+# ! This project has been moved to https://gitlab.com/cxcx/packetris !
+
 # Packetris
 A tetris like android game, simulating the situation of a packet delivery man loading his vehicle. 
 Packets must be arranged as they are pushed into the vehicle to fit as much packets as possible. The more packets you fit into the available space, the higher your score becomes.
